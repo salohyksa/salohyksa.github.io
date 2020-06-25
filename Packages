@@ -1,0 +1,435 @@
+Package: com.creaturecoding.shuffle
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1612
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./debs/com.creaturecoding.shuffle_1.2.0.deb
+Size: 206274
+MD5sum: f203db57cf85bf261acb1b820aa74cad
+SHA1: d321785f41f1f951e2396b4a971c0e71476df2e6
+SHA256: 3b7f5a7f2b9abd3e94e24481cfa7c21440b0d4c8c5b5264e71fcff10168011f0
+Section: Tweaks
+Homepage: https://creaturecoding.com/
+Description: Mix up your preferences
+Tag: purpose::extension, compatible_min::iosiOS10
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=shuffle
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+Name: shuffle
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
+
+Package: com.exile90.icleanerpro
+Version: 7.8.2
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.exile90.icleanerpro_7.8.2.deb
+Size: 6557578
+MD5sum: 2967fdbb6c3c65b7a1d00523136e7b58
+SHA1: 0eed6fcaf5e77dc5338e5b9da01d0e8786d662f1
+SHA256: 4e2f3600be5bc7253bdc890fe156d75a2e697a6e5404f549a01f65917d01f8c4
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
+Package: com.julioverne.cydown
+Version: 7.1.0
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.cydown_7.1.0.deb
+Size: 4325614
+MD5sum: abfcd6c91010d2ffc72575a5afa59d96
+SHA1: 8a319c42088dd119d506c40648ce6304dc342dbd
+SHA256: e7c908c61d146c2d22e68db6488162111ef62b8fa61c2de1744c977ec7f5a138
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: Cydia Download Manager & Extra Features!
+Author: julioverne <julioverne@me.com>
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Name: CyDown
+
+Package: com.ps.letmeblock
+Version: 0.0.7.2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/com.ps.letmeblock_0.0.7.2_iphoneos-arm.deb
+Size: 6152
+MD5sum: 1f35f16e5460e7e563949f300b9a9768
+SHA1: 0e182a0913a53a0bfbf7fbf1105560eb1ac3c622
+SHA256: 581f6d80704f97d3865374f9e1a595aa2b1e261efc74fc38ba803ca2f8cf9bd3
+Section: Tweaks
+Description: Make mDNSResponder care more about /etc/hosts
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/letmeblock.html
+Name: LetMeBlock
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/letmeblock.json
+
+Package: com.rango.gasolina
+Version: 0.3.1
+Architecture: iphoneos-arm
+Maintainer: Rango
+Installed-Size: 340
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.rango.gasolina_0.3.1.deb
+Size: 27820
+MD5sum: a795180d7b59547d97e471e351be4edd
+SHA1: fd01974d9f9dca3ba1d855542cccfd1e882b75d6
+SHA256: 801ec898f22d3a966ffa17f332c78ef3d61a9ab855653af513330ce14a927c64
+Section: Tweaks
+Description: Saves you some battery!
+Author: Rango
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.gasolina
+Name: Gasolina
+Sileodepiction: https://yungspecht.github.io/sileodepictions/com.rango.gasolina/depiction.json
+
+Package: com.subdiox.storeswitcher2
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: subdiox
+Installed-Size: 72
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/com.subdiox.storeswitcher2_1.0.0.deb
+Size: 8924
+MD5sum: 156e968b2186a018d02caaa1ae01a4aa
+SHA1: b3a09758ca3896c1373dc9e787e2f38ab7acba5f
+SHA256: 9f2e0ea06d921da0d07fa70985ddda375304a7f61a99708baa5d2ea3b9fd1fdc
+Section: Tweaks
+Description: Adds a button to switch account in App Store account page on iOS 11+.
+Author: subdiox
+Name: StoreSwitcher 2
+
+Package: com.thireus.untrustedhostsblocker9
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: Thireus <repo@thireus.com>
+Installed-Size: 69
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware (>= 9.0), sed, grep, coreutils, shell-cmds
+Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.thireus.hostscleaner, com.reddestdream.minimalhostsblocker, com.sukarodo.notavoke, com.ceadd.blockyou12, com.nathanaccidentally.systemhostsblocker, com.ichitaso.removeadstoggle, com.ichitaso.removeads, com.spinward.hostsfileflipswitch, com.clezz.restorehosts, ro.iphonews.adblock, com.rishanan.hostadblocker, miktr.switch.adblocker, miktr.switch.adblocker2, com.nathanaccidentally.mdnsflush
+Filename: ./debs/com.thireus.untrustedhostsblocker9_1.7.1.deb
+Size: 54350
+MD5sum: f5471d1f4abce2545e38acb66e253a28
+SHA1: 1ec7d94a1d3298bd442bbb6e8f5f4c5f481139e7
+SHA256: 5d97113441b4316596a86e4ee84387013bfeb81083335a9ce2ee3a596fcf8199
+Section: Security
+Priority: standard
+Homepage: https://repo.thireus.com
+Description: READ THE TWEAK DESCRIPTION/FAQ PAGE! Say goodbye to tracking, spies, intrusive ads and untrusted hosts. IPv4 support only.
+ Blocks about 3,000 blacklisted hosts!
+ .
+ This tweak's main goal is to block a maximum of third-party hosts used by your applications that have been identified as collecting personal and confidential data (location, contacts, UDID, etc.) for commercial, tracking or advertising purpose.
+ .
+ This package will add all blacklisted hosts to your /etc/hosts file. It will NOT overwrite your custom hosts file (if you already have custom entries in your hosts file, they will remain untouched)!
+ .
+ If you are unhappy with this tweak you can uninstall this package. It will ONLY remove the installed entries by the tweak and leave untouched any other entries you may have added manually to the hosts file. But make sure to wait until the end of the uninstallation process. In case your hosts file is broken (should never happen), the installation or uninstallation script will repair it.
+ .
+ If your device Internet is not working anymore after installing this tweak, it could mean your /etc/hosts file is too big for mDNSResponder. If that happens (it shouldn't, read FAQ 5.), please uninstall this tweak, then install "Hosts Cleaner" and reinstall this tweak.
+ .
+ Avoid combining this tweak with other hosts blocker tweaks as they may interfere with your customised /etc/hosts file.
+ .
+ IMPORTANT: Due to /etc/hosts memory limitations of mDNSResponder since iOS 9, this version mainly focuses on blocking hosts that can impact your privacy or security. Some of the most common advertisement hosts are still blocked by this version but a lot had to be removed from the previous UHB versions. Therefore, I cannot guarantee that you won't see any ads at all.
+ .
+ This tweak will not work on networks that have IPv6 enabled (i.e. T-Mobile). If you wish to disable IPv6 on cellular data, follow this tutorial: https://goo.gl/rYRwLG
+ .
+ Please only send me blocking requests for intrusive hosts. I will no longer consider requests for harmless advertisement hosts. Sorry.
+ .
+ FAQ:
+ .
+ 1. Many people try to install the "Untrusted Hosts Blocker" version instead of "UHB - iOS 9/10/11/12 (Untrusted Hosts Blocker)". The name of the tweak is "UHB - iOS 9/10/11/12 (Untrusted Hosts Blocker)" compatible with iOS 9/10/11 and iOS 12. The old version "Untrusted Hosts Blocker" is compatible with iOS 8 and below only. Just browse my repository to find the right package.
+ .
+ 2. Still seeing ads? I'm sorry, but there isn't much I can do about it. If you're using a VPN or a Proxy, entries in /etc/hosts will most likely be ignored, so you will see ads.
+ .
+ 3. You might need to reboot your device after installation, especially if you notice the tweak isn't functionning properly.
+ .
+ 4. This tweak has a very good chance to be already compatible with unrealeased iOS versions (i.e. iOS 13, iOS 14, iOS 15, etc.). Just give it a try!
+ .
+ 5. Can't install the package because install fails with an error message stating the hosts file is too heavy? There is a limit to the number of hosts mDNSResponder can handle. Passed that limit your DNS resolver would stop functioning (no Internet access, device becoming hot because 100% CPU usage, etc.). Uninstall your other "ad-blockers" or flush your /etc/hosts file with "Hosts Cleaner".
+ .
+ 6. Does this tweak impact my battery life? No.
+ .
+ 7. If the install or removal process seems stuck and says, "PLEASE WAIT!!!!! (removal can take up to 3 minutes)", you definitely have to wait 3 minutes. If you decide to kill Cydia for some reason that will most likely corrupt your /etc/hosts file, in which case you will have to install "Hosts Cleaner" to revert it back to normal.
+ .
+ 8. Your device runs hot after install? Websites don't load? Install "Hosts Cleaner" to clear your /etc/hosts file (revert it back to Apple stock version) and reinstall Untrusted Hosts Blocker package(s).
+ .
+ 9. Something wrong happened? No panic, no need to restore your device. There are often easy and straightforward solutions to any problems. Just message me to talk about it.
+ .
+ 10. How can I check my installation was successful? Try to access with Safari: www.obdev.at (it is one of the many hosts that UHB blocks). If you cannot access this website (Safari displays a message saying "Safari cannot open the page"), congratulations UHB is successfully installed.
+ .
+ 11. Why is UHB not working when I am using mobile data (3G/4G/LTE)? Some mobile data ISPs will use proxies, DNS resolution can happen through a proxy and bypass /etc/hosts. Some ISPs also use IPv6 networking, in this case you can install the following tweak: "Mega UHB IPv4+6 - iOS 9/10/11/12 - MUHB IPv4+6 (Mega Untrusted Hosts Blocker IPv4 and IPv6)" available on my repo. If you want to verify if this is the reason why UHB is not working for your device: remove your SIM card or disable mobile data completely, use WiFi only and reboot your device (that will clear the DNS cache), then try to access with Safari www.obdev.at (it is one of the many hosts that UHB blocks). If you cannot access this website (Safari displays a message saying "Safari cannot open the page"), congratulations UHB is successfully installed. Note that "MUHB IPv4+6" can consume a lot of memory, so if you'd still like to stick with UHB you can follow this tutorial to disable IPv6: https://goo.gl/rYRwLG. If you are a T-Mobile users who wish to stick with UHB you can reach out to /u/aakashkk on Reddit for his solution: "TMUS IPv4v6 Data.mobileconfig" (for your security, open this file with a text editor before installing it on your device, and make sure it does not contain any IPs, URLs or DNS servers anywhere. MD5: a131d6430eb82795cd30f87c35d6edfb; SHA: 3806b21068e539f01dda15f0f2dda78356e6fdea
+ .
+ 12. The first installation hangs, what should I do? It may happen that your first installation of UHB stays stuck. Wait 2 or 3 minutes. If it is still stuck, kill Cydia and install "Hosts Cleaner", then reinstall UHB.
+ .
+ 13. I have installed UHB on iOS 12, but ads are not blocked, why? Make sure to use the latest unc0ver version (v3.0.0~b33 or higher). A tweak called LetMeBlock is responsible for making hosts blocking work on iOS 12. Make sure this tweak is functionning properly.
+ .
+ 14. Is it compatible with iOS 12? Yes.
+ .
+ 15. I cannot access www.obdev.at (Safari displays a message saying "Safari cannot open the page"), so it means UHB is working. But I can still see some ads, why? Because UHB blocks certain hostnames known to serve ads, not all. This tweak is not a very sophisticated adblocker. If you wish to block ads more efficiently, you can use Brave.
+ .
+ 16. I am on iOS 12. I have enabled tweaks on unc0ver. I am using unc0ver b33 or higher version. I have tried to reboot (not ldrestart, REBOOT). But it seems UHB is still not working, why? Most likely because the LetMeBlock tweak is not loaded properly: Make sure you enable loading both tweaks and daemons! Or maybe it could be an issue with your Jailbreak not loading LetMeBlock properly. If http://ocsp.apple.com (OCSP!!!) on Safari displays "Not Found on Accelerator", then LetMeBlock is NOT working properly (I REPEAT AGAIN: IF "Not Found on Accelerator" DISPLAYED, THEN IT MEANS LetMeBlock NOT WORKING!!!)! When LetMeBlock does its job properly, Safari will display a message saying "Safari cannot open the page". Please raise this issue to @PoomSmart & @Pwn20wnd! In any case, you NEED LetMeBlock to work for your device!!! (FYI ocsp.apple.com is always automatically injected in /etc/hosts by the Jailbreak, this is a host that always needs to be blocked to prevent iOS updates!)
+ .
+ 17. This tweak will not work if your network uses IPv6 instead of IPv4. Adding IPv6 support would mean doubling the number of blocked hosts, which is currently not an option. You should give a try to "Mega UHB IPv4+6 - iOS 9/10/11/12 - MUHB IPv4+6 (Mega Untrusted Hosts Blocker IPv4 and IPv6)" instead which supports IPv6 or follow this tutorial to disable IPv6: https://goo.gl/rYRwLG
+ .
+ 18. Where can I read more about the mDNSResolver limit? 1MB hardcoded for iOS devices.
+ .
+ 19. I'm on iOS 12 and LetMeBlock does not appear to do its job, what else can I try? Try to kill mDNSResponder manually: "killall -9 mDNSResponder; killall -9 mDNSResponderHelper".
+ .
+ 20. I still see ads on Facebook, Youtube, Instagram, Twitter, etc. Why? Some non-intrusive ads cannot be blocked with /etc/hosts. This is the drawback of this blocking technique. The main goal of this tweak is to block a maximum of hosts that are known to leak data, invade your privacy, serve malware, etc. Certain ads cannot be blocked easily, for example Youtube or Twitter ads or other ads in-game. This applies especially to games or other apps that strongly base their revenues on advertisements and/or data collection. Apps of this type will have checkpoints in place to detect if users have been served with the in-app ads or not, and if they haven't they will prevent the user from navigating through the app until the ad is displayed properly. You can attempt to bypass the security measures in place, which would mean "crack" or "patch" the application, for this you'd need custom tweaks, which take time to create and time to keep up to date. Also you can't be sure those tweaks won't do anything nasty in the background such as stealing your app credentials or session tokens...
+ .
+ 21. Some of my "free" applications don't work anymore, why? Some of the malicious hosts UHB blocks might be used in existing AppStore apps... and some apps enforce checkpoints to verify that these malicious hosts have been loaded properly when you navigate through them. Blocking these hosts would often mean preventing the checkpoints to be reached, which would prevent you from using these applications properly. Those "free" apps make a living on your privacy by collecting confidential or sensitive data while you're using them. Maybe you should simply consider uninstalling those apps. Or, if you are happy with data collection, just get rid of UHB.
+ .
+ 22. Can you make a switch (flipswitch) to activate/deactivate it? No. And I strongly discourage you to use any. They'll mess with your /etc/hosts file and you risk losing DNS resolving, which could lead to losing your jailbreak. UHB should be privileged instead of the "free" games that force you to display ads. If you are not convinced, then just uninstall UHB this tweak isn't for you.
+ .
+ 23. I want your tweak to block a lot more hosts, what can I do? You can try the new tweak called "Mega UHB" (Mega Untrusted Hosts Blocker)" which blocks a lot more hosts.
+ .
+ 24. You haven't upgraded this tweak in a while. Does it mean it is outdated? No. It simply means this tweak is working just fine and there is no need to update it at the moment.
+ .
+ 25. I'm on iOS 12, Google Maps and Facebook stopped working, why? Certain applications will crash mDNSResponder, LetMeBlock will attempt to restart and patch mDNSResponder when this occurs. However, there are still known stability issues. Please make sure to upgrade LetMeBlock to the latest version for added stability (Repo: https://poomsmart.github.io/repo/).
+ .
+ 26. How do I know if my network uses IPv6? You can use the following service to verify if IPv6 is detected: https://test-ipv6.com/
+ .
+ 27. Why does your tweak ask to uninstall other tweaks? These are either bad tweaks or tweaks that are known to cause issues with my tweak, you should not use them.
+ .
+ UPDATED: v1.3.0 (30/03/2018) - Official support for iOS 11.
+ UPDATED: v1.4.0 (24/07/2018) - The new install script will try to prevent installations that would lead to a /etc/hosts file size that iOS can’t handle (install will fail if the size limit is reached and will ask the user to clear the hosts file). For reference, this is a known issue that break iOS domain name resolving once the hosts file reaches a certain size.
+ UPDATED: v1.5.0 (16/03/2019) - Official support for iOS 12. "Minimal Hosts Blocker" hosts moved from "Experimental UHB (Untrusted Hosts Blocker) - EUHB" to this package. Few more hosts (user requests) moved from EUHB to UHB. FAQ added. Youtube history issue resolved. Name changed to "UHB - iOS 9/10/11/12 (Untrusted Hosts Blocker)".
+ UPDATED: v1.5.1 (16/03/2019) - Minor corrections (some hosts cleaned). Fixed the compatibility issue with some older Jailbreaks (deb xz compression not being supported). Updated FAQ to include note for T-Mobile users.
+ UPDATED: v1.5.2 (17/03/2019) - Minor correction in the tweak description. Added points 18 and 19 in the FAQ.
+ UPDATED: v1.5.3 (17/03/2019) - Added points 20, 21 and 22 in the FAQ + minor corrections in the FAQ.
+ UPDATED: v1.5.4 (17/03/2019) - Added conflict control with "Hosts Cleaner". Minor fix in install script.
+ UPDATED: v1.5.5 (17/03/2019) - Fixed issue for iOS 12 where mDNSResponder wouldn't load the /etc/hosts after installation: killall mDNSResponder implemented.
+ UPDATED: v1.5.6 (17/03/2019) - Minor corrections in the FAQ.
+ UPDATED: v1.5.7 (18/03/2019) - Minor corrections in the FAQ. Added point 23 in the FAQ.
+ UPDATED: v1.5.8 (20/03/2019) - Fixed upgrade issue for compatibility with LetMeBlock (mDNSResponderHelper needs to be killed along with mDNSResponder). Users may have experienced a loss of connectivity which required a reboot (only if MUHB was installed).
+ UPDATED: v1.5.9 (20/03/2019) - Force kill is now required for both mDNSResponderHelper and mDNSResponder. Killing order reversed.
+ UPDATED: v1.5.10 (20/03/2019) - Updated FAQ.
+ UPDATED: v1.5.11 (20/03/2019) - Added point 24 to the FAQ. Minor correction in the FAQ.
+ UPDATED: v1.6.0 (23/03/2019) - Improved install/remove log data. Added point 25 in the FAQ. Updated points 11 and 17. Cleanup. Minor additions in the description.
+ UPDATED: v1.6.1 (23/03/2019) - Fixed an issue with the installation detecting experimental hosts instead of its own hosts.
+ UPDATED: v1.6.2 (23/03/2019) - Minor changes in the description.
+ UPDATED: v1.6.3 (24/03/2019) - Increased hosts line limit to 3550 entries.
+ UPDATED: v1.6.4 (25/03/2019) - Fixed typo in installation logs. Updated description. Updated FAQ.
+ UPDATED: v1.6.5 (25/03/2019) - New mDNSResponderHelper killing technique, this should fix issues with LetMeBlock not working after install/upgrade.
+ UPDATED: v1.7.0 (28/03/2019) - Added points 26 and 27 to the FAQ. Added conflict to many other bad tweaks.
+ UPDATED: v1.7.1 (18/04/2019) - Removed ocsp.apple.com (let the JB handle this bit).
+Author: Thireus <repo@thireus.com>
+Name: UHB - iOS 9/10/11/12 (Untrusted Hosts Blocker)
+
+Package: com.thireus.untrustedhostsblockermega
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: Thireus <repo@thireus.com>
+Installed-Size: 3625
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware (>= 9.0), sed, grep, coreutils, shell-cmds, com.ps.letmeblock (>= 0.0.6), com.thireus.untrustedhostsblocker9
+Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.thireus.untrustedhostsblockerexperimental, com.thireus.hostscleaner, com.thireus.untrustedhostsblockeripv4, com.reddestdream.minimalhostsblocker, com.sukarodo.notavoke, com.ceadd.blockyou12, com.nathanaccidentally.systemhostsblocker, com.ichitaso.removeadstoggle, com.ichitaso.removeads, com.spinward.hostsfileflipswitch, com.clezz.restorehosts, ro.iphonews.adblock, com.rishanan.hostadblocker, miktr.switch.adblocker, miktr.switch.adblocker2, com.nathanaccidentally.mdnsflush
+Filename: ./debs/com.thireus.untrustedhostsblockermega_2.1.1.deb
+Size: 1089094
+MD5sum: 12b9548b70a147b92c456b8a089d8fd5
+SHA1: 6d29eba3077a2b48e79285f9e33683917ced04ba
+SHA256: 20251e403e89b55cdc3d863d626dea4dc37b62139dbc2164e52bebe5af94742b
+Section: Security
+Priority: standard
+Homepage: https://repo.thireus.com
+Description: READ THE TWEAK DESCRIPTION/FAQ PAGE! Say goodbye to tracking, spies, intrusive ads and untrusted hosts. Supports both IPv4 and IPv6.
+ Blocks more than 63,000 blacklisted hosts! This is not just a basic adblocker but a powerful firewall for your privacy and security. This tweak requires LetMeBlock (Repo: https://poomsmart.github.io/repo/) to be installed.
+ .
+ This tweak (MUHB - Mega Untrusted Hosts Blocker) is compatible with iOS 9, 10, 11 and 12. If you are looking for less hosts to be blocked, either try "Mega UHB IPv4 Only - iOS 9/10/11/12 - MUHB IPv4 (Mega Untrusted Hosts Blocker IPv4)" which only block hosts on IPv4 networks or only install "UHB - iOS 9/10/11/12 (Untrusted Hosts Blocker)".
+ .
+ Any issues? Please read the FAQ below!
+ .
+ This tweak's main purpose is to block a lot of third-party hosts that have been identified as serving ads, malwares, collecting personal and confidential data (location, contacts, UDID, etc.) for commercial, tracking or advertising purpose.
+ .
+ !!! If this tweak slows down your device or if you encounter connection issues, try the "IPv4 Only" version of MUHB. If that doesn't work, uninstall it and stick to "UHB - iOS 9/10/11/12 (Untrusted Hosts Blocker)" !!!
+ .
+ If your device Internet is not working anymore after installing this tweak: reboot, disable tweaks and uninstall MUHB. If that does not resolve the issue, delete the /etc/hosts.lmb symlink if it exists.
+ .
+ This package will add a lot of blacklisted hosts to your /etc/hosts.lmb file. It will NOT write anything in your /etc/hosts file! As long as you use MUHB, /etc/hosts.lmb will be your new /etc/hosts. If you later add your own customised hosts in /etc/hosts you need to manually duplicate them to /etc/hosts.lmb. /etc/hosts.lmb will be removed if MUHB is removed. /etc/hosts.lmb will also be removed after each update of this tweak.
+ .
+ This tweak will also install UHB for /etc/hosts. It is a safety net feature, meaning when tweaks are not loaded for iOS 9, 10 and 11 it is the UHB hosts that will be functioning. Note that MUHB already contains all UHB hosts, when LetMeBlock is loaded your /etc/hosts.lmb file will be used instead of /etc/hosts.
+ .
+ If you are unhappy with this tweak, you can uninstall this package. It will ONLY remove the installed entries by the tweak and leave untouched any other entries you may have added manually to your hosts files. But make sure to wait until the end of the uninstallation process. In case your hosts file is broken (this should never happen), the installation or uninstallation script will repair it.
+ .
+ Please only send me blocking requests for intrusive hosts. I will no longer consider requests for harmless advertisement hosts. Sorry.
+ .
+ If you are looking for a powerful adblocker, you can combine this tweak with AdBlocker (BigBoss repo) by Yllier. Do not combine this tweak with other hosts blocker tweaks.
+ .
+ If you are unhappy with this tweak you can uninstall it. But make sure to wait until the end of the uninstallation process. In case your hosts.lmb file is broken (should never happen), the installation or uninstallation script will repair it.
+ .
+ Avoid combining this tweak with other hosts blocker tweaks that utilise /etc/hosts.lmb as they may interfere with MUHB.
+ .
+ FAQ:
+ .
+ 1. "Mega UHB" works on iOS 9, 10, 11 and 12. It contains more than 63k blocked host entries. It uses the LetMeBlock package of PoomSmart who found a way to bypass the mDNSResponder limitation of 1MB cache entries.
+ .
+ 2. Still seeing ads? I'm sorry, but there isn't much I can do about it. If you're using a VPN or a Proxy, entries in /etc/hosts.lmb will most likely be ignored, so you will see ads.
+ .
+ 3. You might need to reboot your device after installation, especially if you notice the tweak isn't functionning properly.
+ .
+ 4. Which host file does this tweak use? It uses /etc/hosts.lmb as a symlink to /System/Library/hosts.thireus.muhb (ln -s /System/Library/hosts.thireus.muhb /etc/hosts.lmb), which are not default host files of iOS, but they are created when you install this tweak. If LetMeBlock detects the file pointed by the symlink exists it will use it instead of /etc/host.
+ .
+ 5. Can't install the package because install fails with an error message stating the hosts file is too heavy? There is a limit to the number of hosts I recommend for /etc/hosts.lmb. Passed that limit your DNS resolver might stop functioning (no Internet access, device becoming hot because 100% CPU usage, etc.). Uninstall your other "ad-blockers" or flush/remove your /etc/hosts.lmb file.
+ .
+ 6. Does this tweak impact my battery life? No.
+ .
+ 7. If the install process seems stuck and says, "PLEASE WAIT!!!!! (removal can take up to 3 minutes)", you definitely have to wait 3 minutes. If you decide to kill Cydia for some reason that will most likely corrupt your /etc/hosts.lmb file, in which case you will have to remove /System/Library/hosts.thireus.muhb manually.
+ .
+ 8. Your device runs hot after install? Websites don't load? Try to reboot. Try to use "Hosts Cleaner". Try to reinstall LetMeBlock. Try to remove /System/Library/hosts.thireus.muhb manually and reinstall this package. If that does not work, consider uninstalling this package and switch to "UHB - iOS 9/10/11/12 (Untrusted Hosts Blocker)" intead.
+ .
+ 9. Something wrong happened? No panic, no need to restore your device. There are often easy and straightforward solutions to any problems. Just message me to talk about it.
+ .
+ 10. How can I check my installation was successful? Try to access with Safari: www.obdev.at It is one of the many hosts that MUHB blocks. If you cannot access this website, congratulations MUHB is successfully installed.
+ .
+ 11. Why is MUHB not working when I am using mobile data (3G/4G/LTE)? Some mobile data ISPs will use proxies, DNS resolution can happen through a proxy and bypass /etc/hosts. There is nothing else I can do about it. Talk to your ISP. If you want to verify if this is the reason why MUHB is not working for your device: remove your SIM card or disable mobile data completely, use WiFi only and reboot your device (that will clear the DNS cache), then try to access with Safari www.obdev.at (it is one of the many hosts that MUHB blocks). If you cannot access this website (Safari displays a message saying "Safari cannot open the page"), congratulations MUHB is successfully installed.
+ .
+ 12. The first installation hangs, what should I do? It may happen that your first installation of MUHB stays stuck. Wait 2 or 3 minutes. If it is still stuck, kill Cydia and install "Hosts Cleaner", then reinstall MUHB.
+ .
+ 13. Can I store custom entries in /etc/hosts.lmb or /System/Library/hosts.thireus.muhb? You should store your custom entries in /etc/hosts and reinstall MUHB afterwards. If you store custom entries in /etc/hosts.lmb or /System/Library/hosts.thireus.muhb they will be removed each time the tweak is uninstalled or updated.
+ .
+ 14. Is it compatible with iOS 12? Yes.
+ .
+ 15. I cannot access www.obdev.at (Safari displays a message saying "Safari cannot open the page"), so it means MUHB is working. But I can still see some ads, why? Because MUHB blocks certain hostnames known to serve ads, not all. This tweak is not a very sophisticated adblocker. If you wish to block ads more efficiently, you can use Brave.
+ .
+ 16. I am on iOS 12. I have enabled tweaks on unc0ver. I am using unc0ver b33 or higher version. I have tried to reboot (not ldrestart, REBOOT). But it seems MUHB is still not working, why? Most likely because the LetMeBlock tweak is not loaded properly: Make sure you enable loading both tweaks and daemons! Or maybe it could be an issue with your Jailbreak not loading LetMeBlock properly. If http://ocsp.apple.com (OCSP!!!) on Safari displays "Not Found on Accelerator", then LetMeBlock is NOT working properly (I REPEAT AGAIN: IF "Not Found on Accelerator" DISPLAYED, THEN IT MEANS LetMeBlock NOT WORKING!!!)! When LetMeBlock does its job properly, Safari will display a message saying "Safari cannot open the page". Please raise this issue to @PoomSmart & @Pwn20wnd! In any case, you NEED LetMeBlock to work for your device!!! (FYI ocsp.apple.com is always automatically injected in /etc/hosts by the Jailbreak, this is a host that always needs to be blocked to prevent iOS updates!)
+ .
+ 17. This tweak should work if your network uses IPv6 instead of IPv4. Since UHB 1.4.0, IPv6 support is included.
+ .
+ 18. Where can I read more about the mDNSResolver limit? 1MB hardcoded for iOS devices.
+ .
+ 19. I'm on iOS 12 and LetMeBlock does not appear to do its job, what else can I try? Try to kill mDNSResponder manually: "killall -9 mDNSResponder; killall -9 mDNSResponderHelper". You can also try to do "ldrestart" or reboot your device.
+ .
+ 20. I still see ads on Facebook, Youtube, Instagram, Twitter, etc. Why? Some non-intrusive ads cannot be blocked with /etc/hosts. This is the drawback of this blocking technique. The main goal of this tweak is to block a maximum of hosts that are known to leak data, invade your privacy, serve malware, etc. Certain ads cannot be blocked easily, for example Youtube or Twitter ads or other ads in-game. This applies especially to games or other apps that strongly base their revenues on advertisements and/or data collection. Apps of this type will have checkpoints in place to detect if users have been served with the in-app ads or not, and if they haven't they will prevent the user from navigating through the app until the ad is displayed properly. You can attempt to bypass the security measures in place, which would mean "crack" or "patch" the application, for this you'd need custom tweaks, which take time to create and time to keep up to date. Also you can't be sure those tweaks won't do anything nasty in the background such as stealing your app credentials or session tokens...
+ .
+ 21. Some of my "free" applications don't work anymore, why? Some of the malicious hosts MUHB blocks might be used in existing AppStore apps... and some apps enforce checkpoints to verify that these malicious hosts have been loaded properly when you navigate through them. Blocking these hosts would often mean preventing the checkpoints to be reached, which would prevent you from using these applications properly. Those "free" apps make a living on your privacy by collecting confidential or sensitive data while you're using them. Maybe you should simply consider uninstalling those apps. Or try "UHB - iOS 9/10/11/12 (Untrusted Hosts Blocker)" instead. Or, if you are happy with data collection, just get rid of MUHB.
+ .
+ 22. Can you make a switch (flipswitch) to activate/deactivate it? No. And I strongly discourage you to use any. They'll mess with your /etc/hosts file and you risk losing DNS resolving, which could lead to losing your jailbreak. MUHB should be privileged instead of the "free" games that force you to display ads. If you are not convinced, then just uninstall MUHB this tweak isn't for you.
+ .
+ 23. I have added custom entries in /etc/hosts, why are they not working? When LetMeBlock detects that a /etc/hosts.lmb file is present it will use this file instead of the original /etc/hosts file. Make sure you reinstall MUHB or duplicate your entries in /etc/hosts.lmb. Note that after each installation or update MUHB will copy all entries from /etc/hosts to /etc/hosts.lmb unless there is already a /etc/hosts.lmb file present.
+ .
+ 24. Why do you create a symlink? This is to bypass the sandbox. mDNSResponder is restricted to accessing certain directories or files. It cannot read files that are placed in /etc/ (except for /etc/hosts). Therefore, if we want mDNSResponder to read /etc/hosts.lmb we need to create a symlink that points to a different file location (I chose to use /System/Library/hosts.thireus.muhb).
+ .
+ 25. When my device is not Jailbroken your tweak is not working, why? This is due to the new mDNSResponder in iOS 12 that is not fetching /etc/hosts. But also because MUHB places the hosts in /etc/hosts.lmb instead of /etc/hosts. LetMeBlock is the tweak that will instruct mDNSResponder to fetch the hosts from /etc/hosts.lmb (when present). Meaning that if you are not Jailbroken, LetMeBlock cannot function, and therefore mDNSResponder will not fetch the blocked hosts.
+ .
+ 26. Where can I find LetMeBlock? Add the following repository in Cydia: https://poomsmart.github.io/repo/
+ .
+ 27. What is better, UHB only or MUHB? MUHB comes with UHB and is better, unless you start noticing Internet slowdowns, CPU usage higher than usual, memory consuption too high, unc0ver downgrading LetMeBlock, or other similar issues, in which case just stick with "UHB - iOS 9/10/11/12 (Untrusted Hosts Blocker)" and remove MUHB.
+ .
+ 28. I have updated LetMeBlock and now Internet is not working, why? Please send me an email describing your OS version, device type and installation process to reproduce the issue.
+ .
+ 29. I have rebooted, enabled the jailreak and now Internet is not working, why? It is very likely that LetMeBlock did not install properly or that unc0ver has silently downgraded LetMeBlock to an older version. Read LetMeBlock description page for potential solutions. Uninstall MUHB and install "UHB - iOS 9/10/11/12 (Untrusted Hosts Blocker)" instead until a new version of LetMeBlock is released.
+ .
+ 30. Why can't I install Experimental Untrusted Hosts Blocker (EUHB)? Because the purpose of EUHB is to help diagnose if new hosts cause issues. UHB is more suited for this purpose than MUHB. Once hosts are analysed and classified as good to be blocked they are migrated to both UHB and MUHB. So you will benefit from those blocked hosts later on.
+ .
+ 31. Why does it install UHB? UHB will be used as a safety net for when LetMeBlock does not function properly. The UHB hosts which are only present in /etc/hosts will be operating (mostly relevant for iOS 9, 10 and 11).
+ .
+ 32. You haven't upgraded this tweak in a while. Does it mean it is outdated? No. It simply means this tweak is working just fine and there is no need to update it at the moment.
+ .
+ 33. Google Maps and Facebook stopped working, why? Certain applications will crash mDNSResponder, LetMeBlock will attempt to restart and patch mDNSResponder when this occurs. However, there are still known stability issues. Please make sure to upgrade LetMeBlock to the latest version for added stability.
+ .
+ 34. I have an old device and I have noticed this tweak doesn't work despite trying all the other recommendations you gave above, what should I do? This tweak can make mDNSResponder consume a lot of memory (especially after a fresh start). It is possible mDNSResponder cannot load properly because your device does not have enough available memory for it. Try to reboot your device or attempt a couple of ldrestart. If that doesn't work, you can either uninstall MUHB and try "Mega UHB IPv4 Only - iOS 9/10/11/12 - MUHB IPv4 (Mega Untrusted Hosts Blocker IPv4)" or stay with "UHB - iOS 9/10/11/12 (Untrusted Hosts Blocker)". You can also try to remove other tweaks.
+ .
+ 35. What is the difference between "Mega UHB IPv4 Only - iOS 9/10/11/12 - MUHB IPv4 (Mega Untrusted Hosts Blocker IPv4)" and "Mega UHB IPv4+6 - iOS 9/10/11/12 - MUHB IPv4+6 (Mega Untrusted Hosts Blocker IPv4 and IPv6)"? Both tweaks block the exact same hosts. The only difference is that the first one only blocks hosts on IPv4 networks and the second one blocks hosts on both IPv4 and IPv6 networks, which unfortunately doubles the number of entries in the /etc/hosts.lmb file and thus increases the memory usage of mDNSResponder. The reason there are two different packages is to have an option for people who use only IPv4 networks to benefit from the same features present in "MUHB IPv4+6" while utilising less memory. "MUHB IPv4+6" consumes twice as much memory as "Mega UHB IPv4 Only", but allows users that are on T-Mobile networks or similar networks that offer IPv6 to block hosts without the need of a special network profile to block IPv6 DNS resolution. Alternatively, you can follow this tutorial to disable IPv6 on cellular data: https://goo.gl/rYRwLG.
+ .
+ 36. Why are you blocking www.obdev.at? As much as I love their software, they whitelist their own host with LittleSnitch. Which collects some data every now and then. This is why it's in my list.
+ .
+ 37. I have rebooted my device, and now MUHB or Internet is not working, why? It could be an issue with LetMeBlock not loading properly after reboot. Try to reboot again, or do a ldrestart. You can also try to disable tweaks, re-install LetMeBlock and re-enable tweaks. Future releases of LetMeBlock will fix this issue. Make sure you always upgrade to the latest LetMeBlock version available.
+ .
+ 38. How do I know if my network uses IPv6? You can use the following service to verify if IPv6 is detected: https://test-ipv6.com/
+ .
+ 39. Why does your tweak ask to uninstall other tweaks? These are either bad tweaks or tweaks that are known to cause issues with my tweak, you should not use them.
+ .
+ UPDATED: v1.0.0 (17/03/2019) - Initial version. Thanks to PoomSmart for his help.
+ UPDATED: v1.0.1 (17/03/2019) - Added dependency for LetMeBlock.
+ UPDATED: v1.0.2 (17/03/2019) - Fixed issue for iOS 12 where mDNSResponder wouldn't load the /etc/hosts after installation: killall mDNSResponder implemented.
+ UPDATED: v1.2.0 (18/03/2019) - Compatibility with LetMeBlock 0.0.3a and higher.
+ UPDATED: v1.2.1 (18/03/2019) - Fixed Depends for LetMeBlock to 0.0.3 and higher. Reduced the maximum number of allowed hosts to 64,000. Added point 25 in FAQ.
+ UPDATED: v1.2.2 (18/03/2019) - Added EUHB to the list of conflicts. Fixed hosts size limit bug, increased it to 2MB.
+ UPDATED: v1.2.3 (18/03/2019) - Updated description and added point 25 and 26 in the FAQ.
+ UPDATED: v1.2.4 (18/03/2019) - Updated FAQ. Fixed installed size info.
+ UPDATED: v1.2.5 (18/03/2019) - Added points 27, 28 and 29 in the FAQ.
+ UPDATED: v1.3.0 (18/03/2019) - Initial support for iOS 9, 10 and 11 along with iOS 12. Support and dependency of UHB. Added points 30 and 31 in the FAQ. Modified description.
+ UPDATED: v1.3.1 (20/03/2019) - Dependency to LetMeBlock 0.0.5 minimum. Updated FAQ.
+ UPDATED: v1.3.2 (20/03/2019) - Title changed.
+ UPDATED: v1.3.3 (20/03/2019) - Fixed upgrade issue for compatibility with LetMeBlock (mDNSResponderHelper needs to be killed along with mDNSResponder). Users may have experienced a loss of connectivity which required a reboot.
+ UPDATED: v1.3.4 (20/03/2019) - Force kill is now required for both mDNSResponderHelper and mDNSResponder. Killing order reversed.
+ UPDATED: v1.3.5 (20/03/2019) - Clarified changelog.
+ UPDATED: v1.3.6 (20/03/2019) - Updated FAQ.
+ UPDATED: v1.3.7 (20/03/2019) - Added point 32 to the FAQ. Minor correction in the FAQ.
+ UPDATED: v2.0.0 (23/03/2019) - Improved install/remove log data. IPv6 support (i.e. T-Mobile users). Updated points 11 and 17 of the FAQ. Added point 33 in the FAQ. LetMeBlock dependency to 0.0.6 (Google Maps fix attempt). Cleanup. Minor additions in the description.
+ UPDATED: v2.0.1 (23/03/2019) - Minor fix.
+ UPDATED: v2.0.2 (24/03/2019) - Added more hosts (abpvn hosts). Updated point 3 in the FAQ. Installation log instructions updated (Reboot might be needed if you notice the tweak is not working). Added point 34 in the FAQ. Cleanup.
+ UPDATED: v2.0.3 (24/03/2019) - Typo fix.
+ UPDATED: v2.0.4 (25/03/2019) - Renamed tweak (mentions IPv6 support). Updated description. Added conflict with MUHB IPv4 Only. Updated FAQ and added point 35.
+ UPDATED: v2.0.5 (25/03/2019) - Number of blocked hosts corrected. Added points 36 and 37 to the FAQ.
+ UPDATED: v2.0.6 (25/03/2019) - New mDNSResponderHelper killing technique, this should fix issues with LetMeBlock not working after install/upgrade. Updated point 37.
+ UPDATED: v2.1.0 (28/03/2019) - Added points 38 and 39 to the FAQ. Added conflict to many other bad tweaks.
+ UPDATED: v2.1.1 (18/04/2019) - Fix for iMessage activation issue. Removed ocsp.apple.com (let the JB handle this bit).
+Author: Thireus <repo@thireus.com>
+Name: Mega UHB IPv4+6 - iOS 9/10/11/12 - MUHB IPv4+6 (Mega Untrusted Hosts Blocker IPv4 and IPv6)
+
+Package: kr.xsf1re.alrajhimobilebypass
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/kr.xsf1re.alrajhimobilebypass_0.0.1_iphoneos-arm.deb
+Size: 4178
+MD5sum: 9a6bfd3325ec79b8a808290115e14c3c
+SHA1: 96c3c34dd21a621c761ed8bafd06580308a387fe
+SHA256: 217a92dbd4b8506484b16467ba2d69a4505c802e536a8cb76fd4a2c7b0ab1ef8
+Section: Tweaks
+Description: Bypass Jailbreak Detection of AlRajhi Mobile v4.1.1!
+Author: XsF1re
+Name: AlrajhiMobileBypass
+
+Package: kr.xsf1re.stcpaybypass
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/kr.xsf1re.stcpaybypass_0.0.2_iphoneos-arm.deb
+Size: 4238
+MD5sum: 062db399bc3b5e0d485c60e6e9560c4c
+SHA1: ff9ee0a61841b17f303b37f252a423bc3b687bba
+SHA256: 00d101838f7554a4b0953e62614f5d6c8baf9494c129d8106408a7f06427b90b
+Section: Tweaks
+Description: Bypass Jailbreak Detection of stc pay v1.4.10!
+Author: XsF1re
+Name: STCPayBypass
+
+Package: net.angelxwind.appsyncunified
+Version: 80.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 496
+Depends: firmware (>= 5.0), firmware (<= 13.6), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./debs/net.angelxwind.appsyncunified_80.0.deb
+Size: 42050
+MD5sum: c85456e75e9bcbd7174b8ad6e4e0dcb4
+SHA1: 3cd33452a5fd3ce3ea802713e540c00d03661054
+SHA256: 9f134ae1195783584cfde0c78dee439157c553c88703f0ae461b3f52248e577f
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+

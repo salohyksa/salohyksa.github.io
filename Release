@@ -1,0 +1,8 @@
+Origin: salohyksa
+Label: salohyksa repo for 13
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Codename: salohyksa
+Description: salohyksa repo for 13
